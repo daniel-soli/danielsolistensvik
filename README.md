@@ -4,6 +4,8 @@
 ## About me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsolistensvik)](https://github.com/danielsolistensvik/github-readme-stats)
+
+![Daniels github stats](https://github-readme-stats.vercel.app/api?username=danielsolistensvik)
 <!--
 **danielsolistensvik/danielsolistensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
