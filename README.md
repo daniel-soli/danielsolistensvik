@@ -1,4 +1,7 @@
-### Hi there 👋
+# Daniel Soli Stensvik
+## Senior Developer @CommunicateNorge
+
+## About me
 
 <!--
 **danielsolistensvik/danielsolistensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
