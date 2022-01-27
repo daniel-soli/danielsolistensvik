@@ -1,9 +1,10 @@
 # Daniel Soli Stensvik
-## Senior Developer @CommunicateNorge
+## Senior Developer [@CommunicateNorge](https://github.com/CommunicateNorge)
 
 ## About me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsolistensvik)](https://github.com/danielsolistensvik/github-readme-stats)
+--------
 
 ![Daniels github stats](https://github-readme-stats.vercel.app/api?username=danielsolistensvik)
 <!--
