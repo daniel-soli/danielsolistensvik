@@ -3,7 +3,7 @@
 
 ## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsolistensvik)](https://github.com/danielsolistensvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsolistensvik&layout=compact&theme=radical)](https://github.com/danielsolistensvik/github-readme-stats)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/danielsolistensvik?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 <!--
 **danielsolistensvik/danielsolistensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
