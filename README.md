@@ -1,5 +1,5 @@
 # Daniel Soli Stensvik
-## Senior Developer [@CommunicateNorge](https://github.com/CommunicateNorge)
+## Senior Developer [@Evidi](https://github.com/CommunicateNorge)
 
 ## About me
 
