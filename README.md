@@ -1,12 +1,12 @@
-# Daniel Soli Stensvik
-## Senior Developer [@Evidi](https://github.com/CommunicateNorge)
+# Daniel Soli
+## Senior Developer [@BravNorway](https://github.com/BravNorway)
 
 ## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsolistensvik&layout=compact&theme=radical)](https://github.com/danielsolistensvik/github-readme-stats)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/danielsolistensvik?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-soli&layout=compact&theme=radical)](https://github.com/daniel-soli/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/daniel-soli?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 <!--
-**danielsolistensvik/danielsolistensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniel-soli/daniel-soli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
